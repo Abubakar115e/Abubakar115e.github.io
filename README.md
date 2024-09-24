@@ -4,12 +4,12 @@ Welcome to my personal portfolio! I'm Abubakar Adan, a passionate data scientist
 
 # About me
 
-I'm currently pursuing a Master's degree in Computer Science at the University of Copenhagen, building upon my Bachelor's in Machine Learning and Data Science. With a keen interest in leveraging data to solve real-world problems, I'm constantly exploring new technologies and methodologies in the field of AI and data science.
+I'm currently pursuing a Master's degree in Data Science at the IT University of Copenhagen, building upon my Bachelor's in Machine Learning and Data Science. With a keen interest in leveraging data to solve real-world problems, I'm constantly exploring new technologies and methodologies in the field of AI and data science.
 
 # CV
 
 ## Education
-- Master's in Computer Science, University of Copenhagen (2024-2026, Ongoing)
+- Master's in Data Science, IT University of Copenhagen (2024-2026, Ongoing)
 - Bachelor's in Machine Learning and Data Science, University of Copenhagen (2021-2024)
 
 ## Skills
