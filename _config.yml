@@ -4,4 +4,4 @@ logo: /assets/img/image.png
 show_downloads: true
 theme: jekyll-theme-minimal
 include:
-  - /assets/css/dark-mode.css
+  /assets/css/dark-mode.css
