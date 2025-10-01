@@ -9,7 +9,7 @@ I'm currently pursuing a Master's degree in Data Science at the IT University of
 # CV
 
 ## Education
-- Master's in Data Science, IT University of Copenhagen (2024-2026, Ongoing)
+- Master's in Data Science, IT University of Copenhagen (Ongoing)
 - Bachelor's in Machine Learning and Data Science, University of Copenhagen (2021-2024)
 
 ## Skills
@@ -17,6 +17,7 @@ I'm currently pursuing a Master's degree in Data Science at the IT University of
 - Machine Learning: PyTorch, statistical analysis and predictions
 - Data Analysis: SQL, Power BI
 - Cloud Computing: Azure
+- Network configuration and penetration testing.
 - Linux: Server configuration and scripting
 
 # Work experience
@@ -25,6 +26,11 @@ I'm currently pursuing a Master's degree in Data Science at the IT University of
 - Created Power BI KPI reports for data analysis
 - Configured and migrated data from SQL database to Dynamics 365
 - Performed analysis and statistics on customer data
+
+## Data Analytics Student Assistant at Red Barnet(21	Jan 2025 to present)
+- Created and maintained Power BI dashboards to monitor KPIs and provide useful information for marketing channels. 
+- Analyzed target groups for fundraising initiatives 
+
 
 # Data Science Portfolio
 
